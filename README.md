@@ -1,4 +1,4 @@
-# Maybe2 [![Build Status](https://img.shields.io/travis/ollie/maybe2/master.svg)](https://travis-ci.org/ollie/maybe2) [![Code Climate](https://img.shields.io/codeclimate/github/ollie/maybe2.svg)](https://codeclimate.com/github/ollie/maybe2)
+# Maybe2 [![Build Status](https://img.shields.io/travis/ollie/maybe2/master.svg)](https://travis-ci.org/ollie/maybe2) [![Code Climate](https://img.shields.io/codeclimate/github/ollie/maybe2.svg)](https://codeclimate.com/github/ollie/maybe2) [![Gem Version](https://img.shields.io/gem/v/maybe2.svg)](https://rubygems.org/gems/maybe2)
 
 Wrap a value into a Maybe monad (or Optional type). Since monads are chainable
 and every value is wrapped in one, things don't blow up with `NoMethodError`
